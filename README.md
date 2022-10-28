@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antony33609
+- 👋 Hi, I’m @antony
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning deep learning with tensorflow
 - 💞️ I’m looking to collaborate on the development of AI
